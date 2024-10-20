@@ -2,15 +2,17 @@
 
 #初始project
 
-(1) https://machine-learning-python.gitbook.io/project/classification/ex1_recognizing_hand-written_digits <BR>
-(2) https://www.kaggle.com/competitions/digit-recognizer<BR>
-(3) https://www.kaggle.com/competitions/nlp-getting-started<BR>
-(4) https://www.kaggle.com/competitions/llm-classification-finetuning<BR>
-(5) https://www.kaggle.com/competitions/facial-keypoints-detection<BR>
-(6) U-NET pytorch <BR>
-(7) TigerBx的使用，IXI 數據集 <BR>
-(8) 生成式AI: https://github.com/Project-MONAI/GenerativeModels <BR>
-(9) 醫學影像AI: https://github.com/Project-MONAI/tutorials <BR>
+(1) Python 機器學習入門, 手寫數字辨識 [[link](https://machine-learning-python.gitbook.io/project/classification/ex1_recognizing_hand-written_digits)]  
+(2) Kaggle: Digit Recognizer [[link](https://www.kaggle.com/competitions/digit-recognizer)]  
+(3) Kaggle: NLP Getting Started [[link](https://www.kaggle.com/competitions/nlp-getting-started)]  
+(4) Kaggle: LLM Classification Finetuning [[link](https://www.kaggle.com/competitions/llm-classification-finetuning)]  
+(5) Kaggle: Facial Keypoints Detection [[link](https://www.kaggle.com/competitions/facial-keypoints-detection)]  
+(6) U-NET pytorch 
+(7) TigerBx的使用 [[link](https://github.com/htylab/tigerbx)]  
+(8) 生成式AI [[link](https://github.com/Project-MONAI/GenerativeModels)]  
+(9) 醫學影像AI [[link](https://github.com/Project-MONAI/tutorials)]  
+
+
 
 #比賽資訊
 

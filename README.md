@@ -7,8 +7,8 @@
 (3) https://www.kaggle.com/competitions/nlp-getting-started<BR>
 (4) https://www.kaggle.com/competitions/llm-classification-finetuning<BR>
 (5) https://www.kaggle.com/competitions/facial-keypoints-detection<BR>
-(6) U-NET pytorch
-(7) TigerBx的使用
+(6) U-NET pytorch <BR>
+(7) TigerBx的使用，IXI 數據集
 
 #比賽資訊
 

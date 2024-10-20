@@ -25,4 +25,5 @@
 | 全國大專校院智慧創新暨跨域整合創作競賽 | 2024/07/05 | 2024/10/20 |
 | SITCON 學生計算機年會 | 2024/01/05 | 2024/03/09 |
 
-
+# Datasets
+(1) 醫學dataset 收集 [[link](https://github.com/adalca/medical-datasets)]

@@ -10,6 +10,7 @@
 (6) U-NET pytorch <BR>
 (7) TigerBx的使用，IXI 數據集 <BR>
 (8) 生成式AI: https://github.com/Project-MONAI/GenerativeModels
+(9) 醫學影像AI: https://github.com/Project-MONAI/tutorials
 
 #比賽資訊
 

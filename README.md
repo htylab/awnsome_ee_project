@@ -24,6 +24,8 @@
 | 旺宏金矽獎 | 2024/01/10 | 2024/07  |
 | 全國大專校院智慧創新暨跨域整合創作競賽 | 2024/07/05 | 2024/10/20 |
 | SITCON 學生計算機年會 | 2024/01/05 | 2024/03/09 |
+| 教育部人工智慧競賽 AI CUP | TBD| TBD |
+
 
 # Datasets
 (1) 醫學dataset 收集 [[link](https://github.com/adalca/medical-datasets)]

@@ -10,7 +10,8 @@
 (6) U-NET pytorch 
 (7) TigerBx的使用 [[link](https://github.com/htylab/tigerbx)]  
 (8) 生成式AI [[link](https://github.com/Project-MONAI/GenerativeModels)]  
-(9) 醫學影像AI [[link](https://github.com/Project-MONAI/tutorials)]  
+(9) 醫學影像AI [[link](https://github.com/Project-MONAI/tutorials)] 
+(10) Monai Tutorial
 
 # 課程資訊
 (1) LLAMA3.2: https://www.deeplearning.ai/short-courses/introducing-multimodal-llama-3-2/
